@@ -1,0 +1,2 @@
+GPU Model: Detected 44 texts at 0.23 FPS, Accuracy: N/A
+CPU Model: Detected 49 texts at 0.23 FPS, Accuracy: N/A
